@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Checkpoints & Data (Không bao giờ đẩy file nặng lên Git!)
+checkpoints/
+data/
+*.tar
+*.zip
+*.pt
+*.pth
+*.bin
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.DS_Store
